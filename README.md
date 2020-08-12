@@ -10,5 +10,7 @@ just run
 see your device info 
 
 ##image
-![GitHub Logo](logo.png)
-Format: ![Alt Text](url)
+
+
+![screenshot](IMG_20200812_130310.JPG)
+
